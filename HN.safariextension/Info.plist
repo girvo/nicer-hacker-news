@@ -38,7 +38,7 @@
 		</array>
 	</dict>
 	<key>Description</key>
-	<string>My small hacks</string>
+	<string>My small hacks for Hacker News</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -51,5 +51,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>http://blog.jgirvin.com/</string>
 </dict>
 </plist>
