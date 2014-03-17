@@ -18,7 +18,8 @@ send me a pull request, and I'll be happy to merge.
 
 ## Download
 
-TBC.
+You can download the ````safariext```` file at the [Releases page](https://github.com/girvo/nicer-hacker-news/releases/) 
+to load directly into Safari 7. Alternatively you can download the source code and make the edits you need to!
 
 ## Author
 
